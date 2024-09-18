@@ -1,8 +1,7 @@
 var prompt = require ('prompt-sync')();
 
-let atendimento = prompt("bilola")
+let atendimento = prompt("Voc}e gosta de bilola?")
 
-console.log
-
+console.log("Eu gosto de comer pão")
 
 
