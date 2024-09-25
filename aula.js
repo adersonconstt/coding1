@@ -1,7 +1,11 @@
-var prompt = require ('prompt-sync')();
+console.log ("atividade de Tereza")
 
-let atendimento = prompt("Voc}e gosta de bilola?")
+"apresentação"
 
-console.log("Eu gosto de comer pão")
-
+const nome = ("Aderson Constant")
+var idade = ("23 anos")
+var cidade = ("Recife") 
+var país = ("Brasil")
+console.log (`Olá meu nome é ${nome} e eu tenho ${idade}, moro na cidade do ${cidade} no ${país}`)
+ 
 
